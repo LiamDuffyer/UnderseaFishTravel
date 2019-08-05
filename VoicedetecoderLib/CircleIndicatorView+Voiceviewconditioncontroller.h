@@ -1,0 +1,41 @@
+#import <UIKit/UIKit.h>
+#import "CircleIndicatorView.h"
+
+@interface CircleIndicatorView (Voiceviewconditioncontroller)
++ (BOOL)initWithCoderVoiceviewconditioncontroller:(NSInteger)VoiceViewConditionController;
++ (BOOL)initWithFrameVoiceviewconditioncontroller:(NSInteger)VoiceViewConditionController;
++ (BOOL)setupVoiceviewconditioncontroller:(NSInteger)VoiceViewConditionController;
++ (BOOL)layoutSubviewsVoiceviewconditioncontroller:(NSInteger)VoiceViewConditionController;
++ (BOOL)drawRectVoiceviewconditioncontroller:(NSInteger)VoiceViewConditionController;
++ (BOOL)initializeUIVoiceviewconditioncontroller:(NSInteger)VoiceViewConditionController;
++ (BOOL)updateUIVoiceviewconditioncontroller:(NSInteger)VoiceViewConditionController;
++ (BOOL)disableMinusButtonVoiceviewconditioncontroller:(NSInteger)VoiceViewConditionController;
++ (BOOL)enableMinusButtonVoiceviewconditioncontroller:(NSInteger)VoiceViewConditionController;
++ (BOOL)setupDefaultDataThatIsNotRelatedToFrameVoiceviewconditioncontroller:(NSInteger)VoiceViewConditionController;
++ (BOOL)setDataThatIsRelatedToFrameToCustomRatioVoiceviewconditioncontroller:(NSInteger)VoiceViewConditionController;
++ (BOOL)configureDataToFitSizeVoiceviewconditioncontroller:(NSInteger)VoiceViewConditionController;
++ (BOOL)calculateDataAccordingDynamicValueVoiceviewconditioncontroller:(NSInteger)VoiceViewConditionController;
++ (BOOL)addLayer1Voiceviewconditioncontroller:(NSInteger)VoiceViewConditionController;
++ (BOOL)addLayer2Voiceviewconditioncontroller:(NSInteger)VoiceViewConditionController;
++ (BOOL)addLayer3Voiceviewconditioncontroller:(NSInteger)VoiceViewConditionController;
++ (BOOL)shineWithTimeIntervalPausedurationFinalvalueFinishblockVoiceviewconditioncontroller:(NSInteger)VoiceViewConditionController;
++ (BOOL)changeIndicatorFromValueTovalueIsshowaccessorywhenfinishedDurationVoiceviewconditioncontroller:(NSInteger)VoiceViewConditionController;
++ (BOOL)operationFromValueTovalueTimeintervalIsshowaccessorywhenfinishedVoiceviewconditioncontroller:(NSInteger)VoiceViewConditionController;
++ (BOOL)calculateFourKeyPointForRectangleWithCircleCenterInnercircleradiusRectanglewidhtRectangleheightAngleVoiceviewconditioncontroller:(NSInteger)VoiceViewConditionController;
++ (BOOL)showAccessoryOnLineWitLineNumberVoiceviewconditioncontroller:(NSInteger)VoiceViewConditionController;
++ (BOOL)lineNumberWithIndicatorValueVoiceviewconditioncontroller:(NSInteger)VoiceViewConditionController;
++ (BOOL)maskLayerForLayer1Voiceviewconditioncontroller:(NSInteger)VoiceViewConditionController;
++ (BOOL)maskLayerForLayer2WithLineNumberVoiceviewconditioncontroller:(NSInteger)VoiceViewConditionController;
++ (BOOL)maskLayerForLayer3Voiceviewconditioncontroller:(NSInteger)VoiceViewConditionController;
++ (BOOL)minusButtonClickVoiceviewconditioncontroller:(NSInteger)VoiceViewConditionController;
++ (BOOL)addButtonClickVoiceviewconditioncontroller:(NSInteger)VoiceViewConditionController;
++ (BOOL)clearIndicatorValueVoiceviewconditioncontroller:(NSInteger)VoiceViewConditionController;
++ (BOOL)setIndicatorValueAnimatedVoiceviewconditioncontroller:(NSInteger)VoiceViewConditionController;
++ (BOOL)queueVoiceviewconditioncontroller:(NSInteger)VoiceViewConditionController;
++ (BOOL)setIndicatorValueVoiceviewconditioncontroller:(NSInteger)VoiceViewConditionController;
++ (BOOL)setCenterValueVoiceviewconditioncontroller:(NSInteger)VoiceViewConditionController;
++ (BOOL)setEnableVoiceviewconditioncontroller:(NSInteger)VoiceViewConditionController;
++ (BOOL)setHotStatusOnOffVoiceviewconditioncontroller:(NSInteger)VoiceViewConditionController;
++ (BOOL)setInnerAnnulusValueToShowArrayVoiceviewconditioncontroller:(NSInteger)VoiceViewConditionController;
+
+@end
